@@ -16,8 +16,8 @@ We have specific rules to keep the Developer Forum safe and available. Everyone 
 
 1. Stay focused on the topic. Do not enter topics other than the specified categories.
 2. Do not use the forum as a chat community. We do not allow that here. We just want to create an environment where developers (not just developers) can get help, share ideas and stay informed about updates.
-3. Stand out with your scientific identity and developer identity. Please stay focused on these issues while using this developer forum.
-4. Do not hurt anyone while sharing. We never allow expressions that are offensive or offensive.
+3. Stand out with your scientific identity and developer identity. Please stay focused on these identities while using this developer forum.
+4. Do not hurt anyone while sharing. We never allow expressions that are offensive or derogatory.
 
 # Contact Us
 
