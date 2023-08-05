@@ -35,4 +35,4 @@ We recommend you to use the Sci-Hook Support Center to follow your support reque
 
 Deutsch (German): Klicken Sie hier, um diese Beschreibung auf Deutsch anzuzeigen!
 
-Türkçe (Turkish): Bu açıklamayı Türkçe görüntülemek için tıkla!
+Türkçe (Turkish): [Bu açıklamayı Türkçe görüntülemek için tıkla!](https://github.com/Sci-Hook/developer-forum/blob/main/READMETR.md)
