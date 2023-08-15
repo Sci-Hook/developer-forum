@@ -33,6 +33,6 @@ Destek taleplerinizi daha kolay takip edebilmeniz için Sci-Hook Destek Merkezi'
 
 # Bu Açıklamayı Başka Dillerde Görüntüleyin
 
-English (İngilizce): Click to view this description in English!
+English (İngilizce): [Click to view this description in English!](https://github.com/Sci-Hook/developer-forum/blob/main/README.md)
 
 Deutsch (Almanca): Klicken Sie hier, um diese Beschreibung auf Deutsch anzuzeigen!
